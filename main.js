@@ -10,7 +10,7 @@ $(document).ready(function() {
             $(this).addClass("puff-bubble");
         });
         $("#glow").remove();
-        txt.hide().html("¡Feliz cumpleaños, Susan! Nunca olvides rendirte; tus sueños y metas apenas comienzan.").delay(750).fadeIn(300);
+        txt.hide().html("¡Feliz cumpleaños, Sucely! espero y te la pases genial el dia de hoy :D y me guardes pastel JAJAJA").delay(750).fadeIn(300);
         $("#candle").animate(
             {
             opacity: ".5"
